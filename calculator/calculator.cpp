@@ -16,7 +16,7 @@ int main()
 		}
 		else if (mode=='-')
 		{
-			printf("\ndifference=%.f-%.f=%.f", a,b,a-b);
+			printf("\ndifference=%.2f-%.2f=%.2f", a,b,a-b);
 		}
 		else if(mode=='*')
 		{
