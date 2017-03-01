@@ -31,7 +31,7 @@ int main()
 		printf("ERROR! 'a/0'");
 		}
 		else
-                printf("Wrong operator!");
+                printf("\nWrong operator!");
 		getch();
 		return 0;
 		
